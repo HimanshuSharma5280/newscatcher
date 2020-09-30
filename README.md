@@ -1,4 +1,4 @@
-# Newscatcher
+# Newscatcher 
 **Programmatically collect normalized news from (almost) any website.**
 
 Filter by **topic**, **country**, or **language**.
@@ -188,11 +188,12 @@ RSS feed endpoints for each website and some basic wrapper of
 
 
 ## About Us
-We are Newscatcher API team. We are glad that you liked our package.
+We are Newscatcher API team. We are glad about all those who liked our package.
 
 If you want to search for any news data, consider using [our API](https://newscatcherapi.com/)
 
 ![](newscatcher_oneliner.png)
+**NEWSCATCHER TEAM** 
 
 
 [Artem Bugara]() - co-founder of Newscatcher, made v.0.1.0
